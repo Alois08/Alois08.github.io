@@ -1,0 +1,20 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #416aa3
+}
+ 
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+color : #330fb1;
+}
+ 
+body {
+background-color: #007471;
+}
+.image-modifiee {
+    width: 400px; 
+    height: auto; 
+}
